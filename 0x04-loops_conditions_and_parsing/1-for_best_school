@@ -1,0 +1,8 @@
+#!/usr/bin/env bash
+# This is a shell script for repetitive printing using for
+
+
+for _ in $(seq 1 10)
+do 
+    echo "Best School"
+done
