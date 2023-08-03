@@ -1,0 +1,5 @@
+# NETWORKING BASICS
+
+* The OSI Model
+* LAN, MAN and WAN
+
